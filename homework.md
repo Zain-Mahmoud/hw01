@@ -286,17 +286,7 @@ Sure! Here's a summary of our exchange:
 ---
 
 Feel free to use this summary for your homework assignment. If you need any more details or further assistance, let me know! 📚😊
-```
 
 
-      Cell In[13], line 1
-        """"
-        ^
-    SyntaxError: incomplete input
-
-
-
-
-```python
 
 ```
